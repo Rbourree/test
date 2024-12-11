@@ -1,0 +1,7 @@
+{
+    "entryPoints": ["src"],
+    "out": "docs",
+    "name": "Documentation pour Dougs",
+    "includeVersion": true,
+    "hideGenerator": true
+  }
